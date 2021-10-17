@@ -46,6 +46,7 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 |[inSSIDer](https://www.metageek.com/products/inssider/)|inSSIDer is a popular Wi-Fi scanner for Microsoft Windows and OS X operating systems. The inSSIDer wi-fi scanner can do various tasks, including finding open Wi-Fi access points, tracking signal strength and saving logs with GPS records.| [How to use inSSIDer](https://youtu.be/MLSITi0w0Bo)|
 |[CoWPAtty](https://tools.kali.org/wireless-attacks/cowpatty)|CoWPAtty is an automated dictionary attack tool for WPA-PSK. It runs on Linux OS. This program has a command-line interface and runs on a word list that contains the password to use in the attack.|[How to use CoWPAtty](https://youtu.be/GAuiXr8mwOE)|
 |[AirSnort](https://airsnort.soft112.com/)|AirSnort is free WiFi hacking software that captures the packets and tries to decrypt the keys. The monitoring is done in promiscuous mode and records enough packets to reliably decrypt the key. It is a simple tool and supports both Windows and Linux platforms.|[How to use AirSnort](https://www.youtube.com/watch?v=yTMaHf8byoo)|
+|[AirJack](https://sourceforge.net/projects/airjack/)|AirJack is a Wi-Fi 802.11 packet injection tool. This wireless cracking tool is very useful in injecting forged packets and taking a network down via a denial of service attack. This tool can also be used for a man-in-the-middle attack on the network.|[How to use AirJack](https://www.youtube.com/watch?v=l1xPc2hy4Pw)|
 
 
 ## Pen Testing
